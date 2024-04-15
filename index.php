@@ -12,7 +12,7 @@ if (isset($_GET['genere'])) {
 
 ?>
 
-<div style="background-image: url(https://img.freepik.com/premium-vector/book-seamless-pattern-vector-illustration-hand-drawn-background-books-literature-textbooks_514903-2689.jpg);" class="opacity-75 container">
+<div style="background-image: url(https://img.freepik.com/premium-vector/book-seamless-pattern-vector-illustration-hand-drawn-background-books-literature-textbooks_514903-2689.jpg);" class="container">
 
     <h2 class="text-center bg-body-secondary rounded-pill py-3">Elenco dei libri disponibili</h2>
 

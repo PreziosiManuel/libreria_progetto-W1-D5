@@ -21,8 +21,8 @@
                 </blockquote>
             </div>
             <div>
-                <blockquote class="author-name text-break" data-author-id="<?php echo $book['id']; ?>">Genere: 
-                    <?php echo $book['genere']; ?>
+                <blockquote class="author-name text-break " data-author-id="<?php echo $book['id']; ?>">Genere: 
+                    <span class="fw-lighter"><?php echo $book['genere']; ?></span>
                 </blockquote>
             </div>
             <div class="ms-1"> Recensione:
