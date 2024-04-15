@@ -25,7 +25,7 @@
                     <?php echo $book['genere']; ?>
                 </blockquote>
             </div>
-            <div class="ms-1"> Voto libro:
+            <div class="ms-1"> Recensione:
                     <i style="color: yellow" class="bi bi-star"></i>
                     <span style="color: yellow"  class="ms-1"><?php echo rand(2, 4) . '.' . rand(0, 9); ?></span>
                 </div>
